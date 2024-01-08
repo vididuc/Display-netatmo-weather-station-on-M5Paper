@@ -17,6 +17,7 @@ So I started to investigatre if there is a way to display the netatmo weather st
 After some hours of searching, reading and evaluation I found this:
 
 https://shop.m5stack.com/products/m5paper-esp32-development-kit-v1-1-960x540-4-7-eink-display-235-ppi
+
 I managed to buy an used one but in good shape.
 
 
