@@ -27,6 +27,8 @@ netatmo provides an API to get the the data from the weather station.
 
 I found also I python library with all the stuff about authentication already implemented.
 
+https://github.com/philippelt/netatmo-api-python
+
 I didn't find such a library for the ESP32/Arduino, which is the board used in the M5Paper.
 
 
