@@ -19,11 +19,15 @@ After some hours of searching, reading and evaluation I found this:
 https://shop.m5stack.com/products/m5paper-esp32-development-kit-v1-1-960x540-4-7-eink-display-235-ppi
 
 I managed to buy an used one but in good shape.
+
 I'm not a professional software developer so the next steps were to check how to get the data displayed on the display.
 
 ## Architecture
 netatmo provides an API to get the the data from the weather station.
+
 I found also I python library with all the stuff about authentication already implemented.
+
+I didn't find such a library for the ESP32, which is the board used in the M5Paper.
 
 
 
