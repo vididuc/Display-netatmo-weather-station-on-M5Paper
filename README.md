@@ -22,7 +22,7 @@ I managed to buy an used one but in good shape.
 
 I'm not a professional software developer so the next steps were to check how to get the data displayed on the display.
 
-## Architecture
+## Approach
 netatmo provides an API to get the the data from the weather station.
 
 I found also I python library with all the stuff about authentication already implemented.
@@ -30,6 +30,14 @@ I found also I python library with all the stuff about authentication already im
 https://github.com/philippelt/netatmo-api-python
 
 I didn't find such a library for the ESP32/Arduino, which is the board used in the M5Paper.
+
+My approach was to create a python script to fetch data from the netatmo server.
+
+Then parse the data for the last measured data and the place the values I need as a json file on the webserver running on my synology.
+
+After that the M5Paper will fetch the values to be displayed from the web server running on my synology.
+
+![pictures/Approach.jpg]
 
 
 
