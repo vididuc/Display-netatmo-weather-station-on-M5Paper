@@ -20,7 +20,7 @@ https://shop.m5stack.com/products/m5paper-esp32-development-kit-v1-1-960x540-4-7
 
 I managed to buy an used one but in good shape.
 
-I'm not a professional software developer so the next steps were to check how to get the data displayed on the display.
+I'm not a professional software developer so my next steps were to check how to get the data displayed on the display and to look for examples.
 
 ## Approach
 netatmo provides an API to get the the data from the weather station.
