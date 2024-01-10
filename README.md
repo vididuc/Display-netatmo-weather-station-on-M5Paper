@@ -39,7 +39,7 @@ After that the M5Paper will fetch the values to be displayed from the web server
 
 ![approach](/pictures/Approach.jpg?raw=true "Approach")
 
-![Approach](https://github.com/vididuc/Display-netatmo-weather-station-on-M5Paper/blob/a4486a773aaf065a33c0ece6fa6161874d773eab/pictures/Approach.jpg)
+![Approach](https://github.com/vididuc/Display-netatmo-weather-station-on-M5Paper/blob/a4486a773aaf065a33c0ece6fa6161874d773eab/pictures/Approach.jpg?raw=True)
 
 
 
