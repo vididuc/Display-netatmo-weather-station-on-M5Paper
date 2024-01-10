@@ -37,7 +37,7 @@ Then parse the data for the last measured data and the place the values I need a
 
 After that the M5Paper will fetch the values to be displayed from the web server running on my synology.
 
-![Approach](images/Approach.jpg)
+![Approach](images/Approach.svg)
 
 !(pictures/Approach.jpg)
 
