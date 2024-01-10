@@ -20,7 +20,7 @@ https://shop.m5stack.com/products/m5paper-esp32-development-kit-v1-1-960x540-4-7
 
 I managed to buy an used one but in good shape.
 
-I'm not a professional software developer so my next steps were to check how to get the data displayed on the display and to look for examples.
+I'm not a professional software developer so my next steps were to check how to get the data displayed on the M5Paper and to look for examples.
 
 ## Approach
 netatmo provides an API to get the the data from the weather station.
@@ -33,7 +33,7 @@ I didn't find such a library for the ESP32/Arduino, which is the board used in t
 
 My approach was to create a python script to fetch data from the netatmo server.
 
-Then parse the data for the last measured data and the place the values I need as a json file on the webserver running on my synology.
+Then parse the data for the last measurement and place the values I need as a json file on the webserver running on my synology.
 
 After that the M5Paper will fetch the values to be displayed from the web server running on my synology.
 
