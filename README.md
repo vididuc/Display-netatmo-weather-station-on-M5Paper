@@ -46,7 +46,8 @@ My python script is basically a copy of the example from https://github.com/phil
 I just added some additional lines of code to get only the data I wanted to display on the M5Paper.
 
 Then created a json object a wrote it to a file on my web server on the Synology.
-The script is running on my Synology every 5 minutes, it means every 5 minutes the data from the netatmo server gets fetched.
+The script is running on my Synology every 5 minutes, 
+it means every 5 minutes the data from the netatmo server gets fetched and a json file is saved on the web server on the Synology.
 
 
 
