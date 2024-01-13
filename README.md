@@ -42,7 +42,12 @@ After that the M5Paper will fetch the values to be displayed from the web server
 
 ## Python script
 My python script is basically a copy of the example from https://github.com/philippelt/netatmo-api-python/blob/master/usage.md
-I just added some additional lines of code to get only the data I wanted to display on the M5Paper created a json object a wrote it to a file on my web server on the Synology.
+
+I just added some additional lines of code to get only the data I wanted to display on the M5Paper.
+
+Then created a json object a wrote it to a file on my web server on the Synology.
+The script is running on my Synology every 5 minutes, it means every 5 minutes the data from the netatmo server gets fetched.
+
 
 
 
