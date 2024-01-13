@@ -49,7 +49,11 @@ Then created a json object a wrote it to a file on my web server on the Synology
 The script is running on my Synology every 5 minutes, 
 it means every 5 minutes the data from the netatmo server gets fetched and a json file is saved on the web server on the Synology.
 
-
+## M5Paper Sketch
+Basically I created three different canvas.
+- The canvas on the top is displaying time and date.
+- The canvas on the left is displaying indoor temperature and humidity.
+- The canvas on the right is displaying outdoor temperature and humidity. 
 
 
 
