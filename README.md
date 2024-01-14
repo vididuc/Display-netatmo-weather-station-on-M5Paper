@@ -53,7 +53,9 @@ it means every 5 minutes the data from the netatmo server gets fetched and a jso
 Basically I created three different canvas.
 - The canvas on the top is displaying time and date.
 - The canvas on the left is displaying indoor temperature and humidity.
-- The canvas on the right is displaying outdoor temperature and humidity. 
+- The canvas on the right is displaying outdoor temperature and humidity.
+
+![Display](images/
 
 
 
