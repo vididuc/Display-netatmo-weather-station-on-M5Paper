@@ -57,6 +57,34 @@ Basically I created three different canvas.
 
 ![Display](images/20240114_140617.jpg)
 
+My code is based on several examples I found in internet. In the code you will see the links from where I got the information.
+
+I used Visual Code Stuio with the platformIO plugin.
+
+### Top canvas
+The top canvas displays time and date.
+
+### Left canvas
+The left canvas displays the indoor temperature and humidity.
+
+### Right canvas
+The right canvas displays the outdoor temperature and humidity.
+
+### Icons and fonts
+The icons and fonts are stored to the spiffs. You will see a link into the sketch code to see how to do it.
+
+## Coffee
+I love coffee.
+
+I this project helped you and you think it is a coffee worth then maybe you would like to offer me a coffee...
+
+https://ko-fi.com/vididuc
+
+
+
+
+
+
 
 
 
