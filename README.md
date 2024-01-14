@@ -55,7 +55,9 @@ Basically I created three different canvas.
 - The canvas on the left is displaying indoor temperature and humidity.
 - The canvas on the right is displaying outdoor temperature and humidity.
 
-![Display](images/
+![Display](images/20240114_140617.jpg)
+
+
 
 
 
