@@ -22,6 +22,16 @@ I managed to buy an used one but in good shape.
 
 I'm not a professional software developer so my next steps were to check how to get the data displayed on the M5Paper and to look for examples.
 
+I got inspried by:
+
+https://community.weatherflow.com/t/my-e-ink-weatherflow-display/16759
+
+https://github.com/Bastelschlumpf/M5PaperWeather
+
+https://hackaday.com/2021/11/12/m5paper-gets-open-source-weather-display-firmware/
+
+https://github.com/mil/paperweather
+
 ## Approach
 netatmo provides an API to get the the data from the weather station.
 
